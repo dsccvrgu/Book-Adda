@@ -78,10 +78,12 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/ranjananubhav7/Password-manager.git
    ```
-3.  ```sh
+3. Install the dependencies 
+   ```sh
    npm i
    ```
-4. ```sh
+4. Start the react application
+   ```sh
    npm start
    ```
 5. Open any text editor to edit the codes.   
